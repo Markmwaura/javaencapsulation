@@ -1,2 +1,2 @@
 # javaencapsulation
-This is a java repository showing the building blocks of a java program.In this caseencapsulation
+This is a java repository showing the building blocks of a java program, such as encapsulation
